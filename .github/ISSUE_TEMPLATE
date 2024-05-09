@@ -1,0 +1,27 @@
+### As A: [Persona]
+### I want to: [Do Something
+### So That: [I can Achieve]
+
+## Acceptance Criteria:
+
+- [Detailed description of what constitutes a completed task or feature]
+- [Additional criteria or conditions that must be met for the user story to be considered done]
+
+## Flow to reach Feature:
+- [step 1 of reaching the feature]
+- [step 2 of reaching the feature]
+- [final step reached the feature]
+
+## Dependencies:
+
+### Backend
+- [List any dependencies that must be resolved before work on this user story can begin]
+
+### Mobile
+- [List any dependencies that must be resolved before work on this user story can begin]
+
+## Tasks:
+- [Breakdown of specific tasks needed to complete the user story, including who is responsible and any deadlines]
+
+## Additional Information:
+- [Any extra context, diagrams, mockups, or references that may be helpful for understanding the user story]
