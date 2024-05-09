@@ -1,3 +1,12 @@
+---
+name: User Story
+about: Create a User Story
+title: 'As a [Persona], I want to [Do Something, So that [I Achieve]'
+labels: story
+projects: nerry-labs/4
+
+---
+
 ### As A: [Persona]
 ### I want to: [Do Something
 ### So That: [I can Achieve]
